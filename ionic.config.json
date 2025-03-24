@@ -1,7 +1,0 @@
-{
-  "name": "tiny-tasters",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "custom"
-}
